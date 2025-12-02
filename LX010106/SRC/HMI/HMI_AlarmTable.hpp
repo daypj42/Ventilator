@@ -22,6 +22,7 @@
 /*%C Classe declaration for HMI_AlarmTable.cpp		                          	*/
 /*%C                                                                          */
 /******************************************************************************/
+/***************************  More Comments  *******************************/
 
 #ifndef AlarmTableH
 #define AlarmTableH
